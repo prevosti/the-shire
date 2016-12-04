@@ -1,0 +1,25 @@
+{
+  "name": "the-shire",
+  "version": "1.0.0",
+  "description": "home automation and monitoring app/website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anton",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/prevosti/the-shire.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "jstransformer": "^1.0.0",
+    "morgan": "^1.7.0",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta6",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {}
+}
